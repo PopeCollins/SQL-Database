@@ -1,2 +1,2 @@
 # SQL-Database
-Sql Database 
+A relational database  
